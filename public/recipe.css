@@ -1,0 +1,53 @@
+#recipe-app{
+    background:#EB6536;
+	border: thin solid;
+	border-radius: 20px; 
+}
+.addrecipe{
+    border: thin solid;
+	border-radius: 20px; 
+	margin-left: 15px;
+}
+.recipe-list{
+    display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+}
+.newrecipeform{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  
+}
+#FormID{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 20px;
+    
+    
+}
+.addrecipetitlediv{
+    margin-top: 30px;
+    margin-left: -180px;
+    
+}
+.addrecipetitle{
+    left: 10px ;
+}
+.addrecipeingredientsdiv{
+    margin: 30px;
+}
+
+.addrecipeinstructionsdiv{
+    margin: 30px;
+}
+.submitrecipe{
+    border: thin solid;
+	border-radius: 20px; 
+    margin-left: 15px;
+    padding: 20px;
+}
